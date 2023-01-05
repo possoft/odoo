@@ -1,5 +1,5 @@
 ﻿place = input ("в каком Городе ввод ??")
-
+place = input ("в веткер редмини?")
 
 
 print (place)
